@@ -1,2 +1,1 @@
-### Постучитесь в дверь...
-[![Image text](https://github.com/sergey-sanches-peres/sergey-sanches-peres/blob/main/assets/door6.png)](https://www.youtube.com/watch?v=wPpeO_GbKrc)
+### Приветствую! 🤡
