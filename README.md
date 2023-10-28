@@ -1,6 +1,6 @@
 ### Actively using
-![img](https://github.com/sanchexas/sanchexas/blob/main/assets/ts.svg)
-![img](https://github.com/sanchexas/sanchexas/blob/main/assets/js.svg)
+![img](https://github.com/sanchexas/sanchexas/blob/main/assets/ts.svg)&nbsp;&nbsp;
+![img](https://github.com/sanchexas/sanchexas/blob/main/assets/js.svg)&nbsp;&nbsp;
 ![img](https://github.com/sanchexas/sanchexas/blob/main/assets/html.svg)
 ![img](https://github.com/sanchexas/sanchexas/blob/main/assets/css.svg)
 ![img](https://github.com/sanchexas/sanchexas/blob/main/assets/node.svg)
