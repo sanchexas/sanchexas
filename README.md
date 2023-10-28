@@ -1,4 +1,4 @@
-## Actively using
+### Actively using
 ![img](https://github.com/sanchexas/sanchexas/blob/main/assets/ts.svg)&nbsp;&nbsp;
 ![img](https://github.com/sanchexas/sanchexas/blob/main/assets/js.svg)&nbsp;&nbsp;
 ![img](https://github.com/sanchexas/sanchexas/blob/main/assets/html.svg)&nbsp;&nbsp;
@@ -13,7 +13,7 @@
 ![img](https://github.com/sanchexas/sanchexas/blob/main/assets/vscode.svg)&nbsp;&nbsp;
 ![img](https://github.com/sanchexas/sanchexas/blob/main/assets/vim.svg)&nbsp;&nbsp;
 ![img](https://github.com/sanchexas/sanchexas/blob/main/assets/postman.svg)
-## Also dealt with
+### Also dealt with
 ![img](https://github.com/sanchexas/sanchexas/blob/main/assets/java.svg)&nbsp;&nbsp;
 ![img](https://github.com/sanchexas/sanchexas/blob/main/assets/php.svg)&nbsp;&nbsp;
 ![img](https://github.com/sanchexas/sanchexas/blob/main/assets/python.svg)&nbsp;&nbsp;
